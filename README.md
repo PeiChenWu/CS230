@@ -1,1 +1,1 @@
-# Deep-Learning-CS230
+# Stanford CS230 Deep Learning Mini Final Project
